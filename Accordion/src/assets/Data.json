@@ -1,0 +1,24 @@
+{
+  "accordion": [
+    {
+      "id": 1,
+      "title": "Who We Are",
+      "content": "Get to know us better! Discover the story behind our company and our passion for what we do."
+    },
+    {
+      "id": 2,
+      "title": "Our Services",
+      "content": "Wondering what we can do for you? Dive into the details of the services we offer and how they can benefit you."
+    },
+    {
+      "id": 3,
+      "title": "Meet Our Team",
+      "content": "Putting faces to names! Learn about the awesome people who make things happen here and why we love working together."
+    },
+    {
+      "id": 4,
+      "title": "Get in Touch",
+      "content": "Have questions or just want to chat? We're here for you! Reach out anytime – we love connecting with our community."
+    }
+  ]
+}
